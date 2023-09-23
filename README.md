@@ -1,4 +1,4 @@
 # COMP-2710
 COMP-2710 Dr. Li project
 
-Eh please don't copy my code with my name on it. I'm gonna get kick out
+Do not copy my projects under any circumstances. I am under obligation to report you for academic dishonesty.
